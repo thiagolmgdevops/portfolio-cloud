@@ -9,5 +9,4 @@ Os labs têm como objetivo:
 
 ## Lista de labs
 
-
-
+- [HandsOn 1 – Migração automatizada de usuários para o AWS IAM com MFA](handson-01-iam-usuarios-mfa/) – AWS CLI, Shell Script e política de MFA obrigatório
